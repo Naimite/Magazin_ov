@@ -1,0 +1,66 @@
+C:\Users\admin\Downloads\Дистант\ещё один\Bd_magaz\Bd_magaz\bin\Release\Bd_magaz.exe.config
+C:\Users\admin\Downloads\Дистант\ещё один\Bd_magaz\Bd_magaz\bin\Release\Bd_magaz.exe
+C:\Users\admin\Downloads\Дистант\ещё один\Bd_magaz\Bd_magaz\bin\Release\Bd_magaz.pdb
+C:\Users\admin\Downloads\Дистант\ещё один\Bd_magaz\Bd_magaz\bin\Release\MySql.Data.dll
+C:\Users\admin\Downloads\Дистант\ещё один\Bd_magaz\Bd_magaz\bin\Release\Google.Protobuf.dll
+C:\Users\admin\Downloads\Дистант\ещё один\Bd_magaz\Bd_magaz\bin\Release\ZstdNet.dll
+C:\Users\admin\Downloads\Дистант\ещё один\Bd_magaz\Bd_magaz\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\admin\Downloads\Дистант\ещё один\Bd_magaz\Bd_magaz\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\admin\Downloads\Дистант\ещё один\Bd_magaz\Bd_magaz\bin\Release\System.Memory.dll
+C:\Users\admin\Downloads\Дистант\ещё один\Bd_magaz\Bd_magaz\bin\Release\System.Buffers.dll
+C:\Users\admin\Downloads\Дистант\ещё один\Bd_magaz\Bd_magaz\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\admin\Downloads\Дистант\ещё один\Bd_magaz\Bd_magaz\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\admin\Downloads\Дистант\ещё один\Bd_magaz\Bd_magaz\bin\Release\System.Numerics.Vectors.dll
+C:\Users\admin\Downloads\Дистант\ещё один\Bd_magaz\Bd_magaz\bin\Release\MySql.Data.xml
+C:\Users\admin\Downloads\Дистант\ещё один\Bd_magaz\Bd_magaz\obj\Release\Bd_magaz.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\Дистант\ещё один\Bd_magaz\Bd_magaz\obj\Release\Bd_magaz.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Downloads\Дистант\ещё один\Bd_magaz\Bd_magaz\obj\Release\Bd_magaz.exe.config
+C:\Users\admin\Downloads\Дистант\ещё один\Bd_magaz\Bd_magaz\obj\Release\Bd_magaz.CountryOfOrigin.resources
+C:\Users\admin\Downloads\Дистант\ещё один\Bd_magaz\Bd_magaz\obj\Release\Bd_magaz.Deliveries.resources
+C:\Users\admin\Downloads\Дистант\ещё один\Bd_magaz\Bd_magaz\obj\Release\Bd_magaz.Form1.resources
+C:\Users\admin\Downloads\Дистант\ещё один\Bd_magaz\Bd_magaz\obj\Release\Bd_magaz.Form2.resources
+C:\Users\admin\Downloads\Дистант\ещё один\Bd_magaz\Bd_magaz\obj\Release\Bd_magaz.Product.resources
+C:\Users\admin\Downloads\Дистант\ещё один\Bd_magaz\Bd_magaz\obj\Release\Bd_magaz.ProductType.resources
+C:\Users\admin\Downloads\Дистант\ещё один\Bd_magaz\Bd_magaz\obj\Release\Bd_magaz.Properties.Resources.resources
+C:\Users\admin\Downloads\Дистант\ещё один\Bd_magaz\Bd_magaz\obj\Release\Bd_magaz.SaleOfGoods.resources
+C:\Users\admin\Downloads\Дистант\ещё один\Bd_magaz\Bd_magaz\obj\Release\Bd_magaz.Seller.resources
+C:\Users\admin\Downloads\Дистант\ещё один\Bd_magaz\Bd_magaz\obj\Release\Bd_magaz.StorageCond.resources
+C:\Users\admin\Downloads\Дистант\ещё один\Bd_magaz\Bd_magaz\obj\Release\Bd_magaz.Supplier.resources
+C:\Users\admin\Downloads\Дистант\ещё один\Bd_magaz\Bd_magaz\obj\Release\Bd_magaz.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\Дистант\ещё один\Bd_magaz\Bd_magaz\obj\Release\Bd_magaz.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Дистант\ещё один\Bd_magaz\Bd_magaz\obj\Release\Bd_magaz.csproj.CopyComplete
+C:\Users\admin\Downloads\Дистант\ещё один\Bd_magaz\Bd_magaz\obj\Release\Bd_magaz.exe
+C:\Users\admin\Downloads\Дистант\ещё один\Bd_magaz\Bd_magaz\obj\Release\Bd_magaz.pdb
+E:\Bd_magaz\Bd_magaz\bin\Release\Bd_magaz.exe.config
+E:\Bd_magaz\Bd_magaz\bin\Release\Bd_magaz.exe
+E:\Bd_magaz\Bd_magaz\bin\Release\Bd_magaz.pdb
+E:\Bd_magaz\Bd_magaz\bin\Release\MySql.Data.dll
+E:\Bd_magaz\Bd_magaz\bin\Release\Google.Protobuf.dll
+E:\Bd_magaz\Bd_magaz\bin\Release\ZstdNet.dll
+E:\Bd_magaz\Bd_magaz\bin\Release\K4os.Compression.LZ4.Streams.dll
+E:\Bd_magaz\Bd_magaz\bin\Release\BouncyCastle.Crypto.dll
+E:\Bd_magaz\Bd_magaz\bin\Release\System.Memory.dll
+E:\Bd_magaz\Bd_magaz\bin\Release\System.Buffers.dll
+E:\Bd_magaz\Bd_magaz\bin\Release\K4os.Compression.LZ4.dll
+E:\Bd_magaz\Bd_magaz\bin\Release\K4os.Hash.xxHash.dll
+E:\Bd_magaz\Bd_magaz\bin\Release\System.Numerics.Vectors.dll
+E:\Bd_magaz\Bd_magaz\bin\Release\MySql.Data.xml
+E:\Bd_magaz\Bd_magaz\obj\Release\Bd_magaz.csproj.AssemblyReference.cache
+E:\Bd_magaz\Bd_magaz\obj\Release\Bd_magaz.csproj.SuggestedBindingRedirects.cache
+E:\Bd_magaz\Bd_magaz\obj\Release\Bd_magaz.exe.config
+E:\Bd_magaz\Bd_magaz\obj\Release\Bd_magaz.CountryOfOrigin.resources
+E:\Bd_magaz\Bd_magaz\obj\Release\Bd_magaz.Deliveries.resources
+E:\Bd_magaz\Bd_magaz\obj\Release\Bd_magaz.Form1.resources
+E:\Bd_magaz\Bd_magaz\obj\Release\Bd_magaz.Form2.resources
+E:\Bd_magaz\Bd_magaz\obj\Release\Bd_magaz.Product.resources
+E:\Bd_magaz\Bd_magaz\obj\Release\Bd_magaz.ProductType.resources
+E:\Bd_magaz\Bd_magaz\obj\Release\Bd_magaz.Properties.Resources.resources
+E:\Bd_magaz\Bd_magaz\obj\Release\Bd_magaz.SaleOfGoods.resources
+E:\Bd_magaz\Bd_magaz\obj\Release\Bd_magaz.Seller.resources
+E:\Bd_magaz\Bd_magaz\obj\Release\Bd_magaz.StorageCond.resources
+E:\Bd_magaz\Bd_magaz\obj\Release\Bd_magaz.Supplier.resources
+E:\Bd_magaz\Bd_magaz\obj\Release\Bd_magaz.csproj.GenerateResource.cache
+E:\Bd_magaz\Bd_magaz\obj\Release\Bd_magaz.csproj.CoreCompileInputs.cache
+E:\Bd_magaz\Bd_magaz\obj\Release\Bd_magaz.csproj.CopyComplete
+E:\Bd_magaz\Bd_magaz\obj\Release\Bd_magaz.exe
+E:\Bd_magaz\Bd_magaz\obj\Release\Bd_magaz.pdb
